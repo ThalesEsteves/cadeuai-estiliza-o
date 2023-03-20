@@ -1,0 +1,39 @@
+body {
+  // background-image: linear-gradient(to bottom, #bae9ab, #571919);
+  background: linear-gradient(to bottom, #001D0B, #0DB045);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  overflow: hidden;
+  
+}
+
+.titulo{
+  position: relative;
+  margin-bottom: 5.6rem;
+}
+
+  h3 {
+  position: relative;
+  font-family: Georgia black;
+  font-size: x-large;
+  top: 0%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  }
+
+  .Rec91 {
+  display: block;
+  position: absolute;
+  margin-top: 43.9%;
+  transform: translate(-15%, -15%);
+  left: 25%;
+  }
+
+  .Rec94 {
+  display: block;
+  position: absolute;
+  margin-top: 60%;
+  transform: translate(-15%, -15%);
+  left: 25%;
+  }
